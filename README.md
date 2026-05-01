@@ -1,5 +1,5 @@
 ## **Project: Retail Inventory and Sales Management**
-![](https://github.com/abduallheid/Demand-Forecasting-using-ARIMA-Prophet/blob/main/Project--Retail-Inventory-and-Sales-Management.jpg)
+![](https://github.com/abduallheid/Demand-Forecasting-using-ARIMA-Prophet/blob/main/asset.jpg)
 
 
 This data science project delves into the analysis of retail inventory and sales data, aiming to uncover valuable insights and predict future demand. It leverages various data science techniques to empower informed decision-making within your business.
